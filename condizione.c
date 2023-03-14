@@ -14,7 +14,7 @@ int main()
         scanf("%d", &y);
         
         if (y == 1)
-        { printf("SIUM\n");
+        { printf("se trombaaa\n");
 
         }
 
