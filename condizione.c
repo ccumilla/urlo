@@ -9,7 +9,19 @@ int main()
      
     if (x >= 18)
     {
-        printf("se trombaaa\n");
+        int y;
+        printf("daje annamo ar bagno?\n");
+        scanf("%d", &y);
+        
+        if (y == 1)
+        { printf("SIUM\n");
+
+        }
+
+        else
+        {
+            printf("che stronza pd\n");
+        }
     }
 
     else
