@@ -12,7 +12,11 @@ int main()
   {
    printf("triangolo verificato\n");
   }
-   else
+  else if(x == 0 || y == 0 || z == 0)
+  {
+   printf("triangolo degenere\n");
+  }
+  else
    {
     printf("triangolo non verificato\n");
    }
